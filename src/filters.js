@@ -171,8 +171,10 @@ const categories = [
 ];
 
 const statuses = {
+    All: 'all',
     Live: 'live',
     Successful: 'successful',
+    Upcoming: 'upcoming',
 };
 
 const pledges = [
