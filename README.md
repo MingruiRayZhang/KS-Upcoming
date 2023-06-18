@@ -1,3 +1,6 @@
+## This is a variant of the code that allows user to scrape Kickstarter Upcoming projects
+
+
 Since the official Kickstarter API does not provide structured output of search results, you can get list of Kickstarter news and projects with this Kickstarter Scraper.
 
 ## Features
